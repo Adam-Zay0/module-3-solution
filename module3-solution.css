@@ -1,0 +1,15 @@
+/* Custom styles */
+
+.tall-section {
+    background-color: #f2f2f2;
+    height: 1000px;
+    padding: 20px;
+  }
+  
+  /* Mobile navbar dropdown background */
+  @media (max-width: 767px) {
+    .navbar-collapse {
+      background-color: #ddd;
+    }
+  }
+  
